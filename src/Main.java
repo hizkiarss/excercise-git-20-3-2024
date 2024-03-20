@@ -15,7 +15,7 @@ public class Main {
 
         int angleB = 180 - (angleA + angleC);
 
-        System.out.println("The angle C is : " + angleB + "\n");
+        System.out.println("The angle B is : " + angleB + "\n");
 
         scanner.close();
         }
