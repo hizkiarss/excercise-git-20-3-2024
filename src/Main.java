@@ -10,7 +10,7 @@ public class Main {
         System.out.print("Enter the angle A of the triangle: ");
         int angleA = scanner.nextInt();
 
-        System.out.print("Enter the angle C of the triangle: ");
+        System.out.print("Enter the Angle C of the triangle: ");
         int angleC = scanner.nextInt();
 
         int angleB = 180 - (angleA + angleC);
